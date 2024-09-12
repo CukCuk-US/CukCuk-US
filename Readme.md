@@ -13,7 +13,7 @@ To download a file, simply click the corresponding link. If you encounter any is
 
 | Application | Version | Download |
 |---|---|---|
-| **CukCuk Mobile Sales** | RC11 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC11.0.0.1/SALE_RC11_0_0_1.apk) |
+| **CukCuk Mobile Sales** | RC11 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC11.1.0.0/CukCuk_Sales_RC11_1_0_0.apk) |
 | **CukCuk Mobile Manager** | RC11 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC11.0.0.1/Manager_RC11_0_0_1.apk) |
 | **CukCuk Mobile KDS** | RC11 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC11.0.0.1/KDS_RC11_0_0_1.apk) |
 
