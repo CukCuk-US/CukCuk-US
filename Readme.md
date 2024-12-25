@@ -24,7 +24,7 @@ To download a file, simply click the corresponding link. If you encounter any is
 
 | Application | Version | Download |
 |---|---|---|
-| **CukCuk Mobile Sales** | RC13 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC13.0.0.0/Sales_RC13_0_0_0.apk) |
+| **CukCuk Mobile Sales** | RC13.1 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC13.1.0.0/Sales_RC13_1_0_0.apk) |
 | **CukCuk Mobile Manager** | RC13 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC13.0.0.0/Manager_RC13_0_0_0.apk) |
 
 
