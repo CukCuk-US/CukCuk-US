@@ -20,6 +20,14 @@ To download a file, simply click the corresponding link. If you encounter any is
 
 ## 🗂️ **Installation Files**
 
+### Version RC15
+
+| Application | Version | Download |
+|---|---|---|
+| **CukCuk Mobile Sales** | RC15 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC15/Sales_RC15_0_0_0.apk) |
+| **CukCuk Mobile Manager** | RC15 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC15/Manager_RC15_0_0.apk) |
+
+
 ### Version RC14
 
 | Application | Version | Download |
