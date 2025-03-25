@@ -28,8 +28,7 @@ To download a file, simply click the corresponding link. If you encounter any is
 | **CukCuk Mobile KDS** | RC14 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC14/KDS_RC14_0_0_0.apk) |
 | **CukCuk Mobile Manager** | RC16 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC16/Manager_RC16_0_0_0.apk) |
 
-
-
+---
 
 
 ### Version RC16
