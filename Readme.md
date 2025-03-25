@@ -20,6 +20,18 @@ To download a file, simply click the corresponding link. If you encounter any is
 
 ## 🗂️ **Installation Files**
 
+### Lastest Version
+
+| Application | Version | Download |
+|---|---|---|
+| **CukCuk Mobile Sales** | RC16 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC16/Sales_RC16_0_0_0.apk) |
+| **CukCuk Mobile KDS** | RC14 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC14/KDS_RC14_0_0_0.apk) |
+| **CukCuk Mobile Manager** | RC16 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC16/Manager_RC16_0_0_0.apk) |
+
+
+
+
+
 ### Version RC16
 
 | Application | Version | Download |
