@@ -24,17 +24,26 @@ To download a file, simply click the corresponding link. If you encounter any is
 
 | Application | Version | Download |
 |---|---|---|
-| **CukCuk Mobile Sales** | RC17 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC17/Sales_RC17_0_0_3.apk) |
-| **CukCuk Mobile KDS** | RC17 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC17/KDS_RC17_0_0_2.apk) |
+| **CukCuk Mobile Sales** | RC18.1 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC18.1/Sales_RC18_1_0_0.apk) |
+| **CukCuk Mobile KDS** | RC18.1 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC18.1/KDS_RC18_1_0_0.apk) |
 | **CukCuk Mobile Manager** | RC16 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC16/Manager_RC16_0_0_0.apk) |
 
 ---
+
+### Version RC18.1
+
+| Application | Version | Download |
+|---|---|---|
+| **CukCuk Mobile Sales** | RC18.1 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC18.1/Sales_RC18_1_0_0.apk) |
+| **CukCuk Mobile KDS** | RC18.1 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC18.1/KDS_RC18_1_0_0.apk) |
+
 
 ### Version RC18
 
 | Application | Version | Download |
 |---|---|---|
 | **CukCuk Mobile Sales** | RC18 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC18/Sales_RC18_0_0_0.apk) |
+
 
 ### Version RC18 (Pre release for AUS)
 
@@ -43,12 +52,14 @@ To download a file, simply click the corresponding link. If you encounter any is
 | **CukCuk Mobile Sales** | RC18 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC18_Pre_release/Sales_RC18_AUS.apk) |
 | **CukCuk Mobile KDS** | RC18 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC18_Pre_release/KDS_RC18_AUS.apk) |
 
+
 ### Version RC17
 
 | Application | Version | Download |
 |---|---|---|
 | **CukCuk Mobile Sales** | RC17 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC17/Sales_RC17_0_0_3.apk) |
 | **CukCuk Mobile KDS** | RC17 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC17/KDS_RC17_0_0_2.apk) |
+
 
 ### Version RC16
 
