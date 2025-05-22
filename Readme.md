@@ -34,7 +34,7 @@ To download a file, simply click the corresponding link. If you encounter any is
 
 | Application | Version | Download |
 |---|---|---|
-| **CukCuk Mobile Sales** | RC18.1 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC18.1/Sales_RC18_1_0_2.apk) |
+| **CukCuk Mobile Sales** | RC18.1 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC18.1/Sales_RC18_1_0_3.apk) |
 | **CukCuk Mobile KDS** | RC18.1 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC18.1/KDS_RC18_1_0_0.apk) |
 
 
