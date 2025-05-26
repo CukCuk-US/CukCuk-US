@@ -2,7 +2,8 @@
 
 | Application | Version | Download |
 |---|---|---|
-| **CukCuk Mobile Sales** | RC18.1 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC18.1/Sales_RC18_1_0_3.apk) |
+| **CukCuk Mobile Sales** | RC18.1 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC18.1.4/Sales_RC18_1_0_4.apk) |
+| **CukCuk Mobile Sales** | RC18.1 (Test Tyro) | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC18.1.4/Sales_AUS_RC18_1_0_4.apk) |
 | **CukCuk Mobile KDS** | RC18.1 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC18.1/KDS_RC18_1_0_0.apk) |
 
 
