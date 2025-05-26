@@ -133,10 +133,7 @@ To download a file, simply click the corresponding link. If you encounter any is
 | **CukCuk Mobile KDS** | RC9 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC9/KDS_RC9.apk) |
 | **CukCuk Mobile Manager** | RC9 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC9/Manager_RC9.apk) |
 
-
 </details>
-
----
 
 ## 📧 **Contact Support**
 
