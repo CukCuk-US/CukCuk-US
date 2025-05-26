@@ -28,7 +28,9 @@ To download a file, simply click the corresponding link. If you encounter any is
 | **CukCuk Mobile KDS** | RC18.1 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC18.1/KDS_RC18_1_0_0.apk) |
 | **CukCuk Mobile Manager** | RC16 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC16/Manager_RC16_0_0_0.apk) |
 
----
+
+<details>
+<summary>📦 Click to view Older Versions</summary>
 
 ### Version RC18.1
 
@@ -130,6 +132,9 @@ To download a file, simply click the corresponding link. If you encounter any is
 | **CukCuk Mobile Sales** | RC9 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC9/Sales_RC9.apk) |
 | **CukCuk Mobile KDS** | RC9 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC9/KDS_RC9.apk) |
 | **CukCuk Mobile Manager** | RC9 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC9/Manager_RC9.apk) |
+
+
+</details>
 
 ---
 
