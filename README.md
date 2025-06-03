@@ -33,6 +33,8 @@ To download a file, simply click the corresponding link. If you encounter any is
 
 Vui lòng xem tại [`installation-files.md`](installation-files.md) để tải các phiên bản trở về trước.
 
+### Remote control 
+Rustdesk 1.4.0 [Download](https://github.com/rustdesk/rustdesk/releases/download/1.4.0/rustdesk-1.4.0-universal-signed.apk)
 
 
 ## 📧 **Contact Support**
