@@ -1,3 +1,9 @@
+### Version RC19
+
+| Application | Version | Download |
+|---|---|---|
+| **CukCuk Mobile Sales** | RC19 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC19/Sales_RC19_0_0_0.apk) |
+
 ### Version RC18.1
 
 | Application | Version | Download |
