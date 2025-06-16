@@ -24,7 +24,7 @@ To download a file, simply click the corresponding link. If you encounter any is
 
 | Application | Version | Download |
 |---|---|---|
-| **CukCuk Mobile Sales** | RC19 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC19/Sales_RC19_0_0_2.apk) |
+| **CukCuk Mobile Sales** | RC19 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC19/Sales_RC19_0_0_3.apk) |
 | **CukCuk Mobile KDS** | RC19 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC19/KDS_RC19_0_0_0.apk) |
 | **CukCuk Mobile Manager** | RC19 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC19/Manager_RC19_0_0_0.apk) |
 
