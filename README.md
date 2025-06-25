@@ -3,13 +3,13 @@
 Thank you for visiting! Below are all the necessary installation files for CukCuk Mobile Global. We have organized them by version and application to help you find what you need quickly and easily.
 
 CH Play:
-[CukCuk Mobile Manager (US)](https://play.google.com/store/apps/details?id=vn.com.misa.cukcukmanagerus)
+[CukCuk Mobile Manager](https://play.google.com/store/apps/details?id=vn.com.misa.cukcukmanagerus)
 
 Appstore:
-[CukCuk Mobile Manager (US)](https://apps.apple.com/us/app/cukcuk-manager-us/id6469474556)
+[CukCuk Mobile Manager](https://apps.apple.com/us/app/cukcuk-manager-us/id6469474556)
 
 Testflight:
-[CukCuk Mobile Manager (US)](https://testflight.apple.com/join/Gi67wFRK)
+[CukCuk Mobile Manager](https://testflight.apple.com/join/Gi67wFRK)
 
 
 
