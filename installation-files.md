@@ -2,6 +2,15 @@
 
 | Application | Version | Download |
 |---|---|---|
+| **CukCuk Mobile Sales** | RC20 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC20/Sales_RC20_0_0_0.apk) |
+| **CukCuk Mobile KDS** | RC20 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC20/KDS_RC20_0_0_0.apk) |
+| **CukCuk Mobile Manager** | RC20 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC20/Manager_RC20_0_0_0.apk) |
+
+
+### Version RC19
+
+| Application | Version | Download |
+|---|---|---|
 | **CukCuk Mobile Sales** | RC19 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC19/Sales_RC19_0_0_3.apk) |
 | **CukCuk Mobile KDS** | RC19 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC19/KDS_RC19_0_0_0.apk) |
 | **CukCuk Mobile Manager** | RC19 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC19/Manager_RC19_0_0_0.apk) |
