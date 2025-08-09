@@ -1,8 +1,15 @@
+### Version RC21
+
+| Application | Version | Download |
+|---|---|---|
+| **CukCuk Mobile Sales** (POS Android)| RC21 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC21/Sales_RC21_0_0_0.apk) |
+| **CukCuk Mobile KDS** | RC21 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC21/KDS_RC21_0_0_0.apk) |
+
 ### Version RC20.1
 
 | Application | Version | Download |
 |---|---|---|
-| **CukCuk Mobile Sales** | RC20.1 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC20.1/Sales_RC20_1_0_0.apk) |
+| **CukCuk Mobile Sales** | RC20.1 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC20.1/Sales_RC20_1_0_1.apk) |
 
 ### Version RC20
 
