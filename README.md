@@ -26,7 +26,7 @@ To download a file, simply click the corresponding link. If you encounter any is
 |---|---|---|
 | **CukCuk Mobile Sales** | RC21 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC21/Sales_US_RC21_0_0_0.apk) |
 | **CukCuk Mobile KDS** | RC21 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC21/KDS_US_RC21_0_0_1.apk) |
-| **CukCuk Mobile Manager** | RC20 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC21/Manager_US_RC21_0_0_0.apk) |
+| **CukCuk Mobile Manager** | RC21 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC21/Manager_US_RC21_0_0_0.apk) |
 
 
 ### Old Versions
