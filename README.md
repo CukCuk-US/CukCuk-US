@@ -24,7 +24,7 @@ To download a file, simply click the corresponding link. If you encounter any is
 
 | Application | Version | Download |
 |---|---|---|
-| **CukCuk Mobile Sales** | RC22 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC22/Sales_RC22_0_0_0.apk) |
+| **CukCuk Mobile Sales** | RC22 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC22/Sales_RC22_0_0_1.apk) |
 | **CukCuk Mobile KDS** | RC22 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC22/KDS_RC22_0_0_0.apk) |
 | **CukCuk Mobile Manager** | RC22 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC22/Manager_RC22_0_0_0.apk) |
 
