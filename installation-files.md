@@ -1,3 +1,12 @@
+### Version RC22
+
+| Application | Version | Download |
+|---|---|---|
+| **CukCuk Mobile Sales** | RC22.0.0.2 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC22/Sales_RC22_0_0_2.apk) |
+| **CukCuk Mobile KDS** | RC22.0.0.0 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC22/KDS_RC22_0_0_0.apk) |
+| **CukCuk Mobile Manager** | RC22.0.0.2 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC22/Manager_RC22_0_0_2.apk) |
+
+
 ### Version RC21
 
 | Application | Version | Download |
