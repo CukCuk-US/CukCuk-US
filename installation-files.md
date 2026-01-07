@@ -1,3 +1,11 @@
+### Version RC25
+
+| Application | Version | Download |
+|---|---|---|
+| **CukCuk Mobile Sales** | RC25.0.0.2 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC25/Sales_US_RC25_0_0_2.apk) |
+| **CukCuk Mobile Kiosk** | RC25.0.0.1 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC25/CukCuk_Kiosk_RC25_0_0_1.apk) |
+| **CukCuk Mobile KDS** | RC25.0.0.2 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC25/KDS_US_RC25_0_0_2.apk) |
+
 ### Version RC24
 
 | Application | Version | Download |
