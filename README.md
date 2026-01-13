@@ -24,8 +24,8 @@ To download a file, simply click the corresponding link. If you encounter any is
 
 | Application | Version | Download |
 |---|---|---|
-| **CukCuk Mobile Sales** | RC26.0.0.0 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC26/Sales_US_RC26_0_0_1.apk) |
-| **CukCuk Mobile Kiosk** | RC26.0.0.0 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC26/CukCuk_Kiosk_RC26_0_0_1.apk) |
+| **CukCuk Mobile Sales** | RC26.0.0.1 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC26/Sales_US_RC26_0_0_1.apk) |
+| **CukCuk Mobile Kiosk** | RC26.0.0.1 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC26/CukCuk_Kiosk_RC26_0_0_1.apk) |
 | **CukCuk Mobile KDS** | RC26.0.0.0 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC26/KDS_US_RC26_0_0_0.apk) |
 | **CukCuk Mobile Manager** | RC26.0.0 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC26/Manager_US_RC26_0_0_0.apk) |
 
