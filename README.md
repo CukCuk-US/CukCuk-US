@@ -35,7 +35,7 @@ To download a file, simply click the corresponding link. If you encounter any is
 You can download previous versions from [`installation-files.md`](installation-files.md).
 
 ### Remote control 
-Rustdesk 1.4.0 [Download](https://github.com/rustdesk/rustdesk/releases/download/1.4.0/rustdesk-1.4.0-universal-signed.apk)
+[Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/Resource/anydesk.apk)
 
 
 ## 📧 **Contact Support**
