@@ -35,7 +35,7 @@ To download a file, simply click the corresponding link. If you encounter any is
 You can download previous versions from [`installation-files.md`](installation-files.md).
 
 ### Remote control 
-[Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/Resource/anydesk.apk)
+[Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/Resource/rustdesk-1.4.5-aarch64-signed.apk)
 
 
 ## 📧 **Contact Support**
