@@ -24,10 +24,10 @@ To download a file, simply click the corresponding link. If you encounter any is
 
 | Application | Version | Download |
 |---|---|---|
-| **CukCuk Mobile Sales** | RC26.0.0.5 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC26/Sales_US_RC26_0_0_5.apk) |
-| **CukCuk Mobile Kiosk** | RC26.0.0.3 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC26/CukCuk_Kiosk_RC26_0_0_3.apk) |
+| **CukCuk Mobile Sales** | R134.0.0.0 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/R134/Sales_US_R134_0_0_0.apk) |
+| **CukCuk Mobile Kiosk** | R134.0.0.0 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/R134/Kiosk_US_R134_0_0_0.apk) |
 | **CukCuk Mobile KDS** | RC26.0.0.0 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC26/KDS_US_RC26_0_0_0.apk) |
-| **CukCuk Mobile Manager** | RC26.0.1 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/RC26/Manager_US_RC26_0_0_0.apk) |
+| **CukCuk Mobile Manager** | R134.0.0.0 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/R134/Manager_US_R134_0_0_0.apk) |
 
 
 ### Old Versions
