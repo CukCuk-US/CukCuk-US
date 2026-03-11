@@ -36,7 +36,7 @@ You can download previous versions from [`installation-files.md`](installation-f
 
 ### Remote control 
 
-Ruskdesk Client (Android) [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/Resource/rustdesk-1.4.5-aarch64-signed.apk)
+Anydesk Client (Android) [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/Resource/AnyDeskClient.apk)
 
 
 Ruskdesk Remote (Windows) [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/Resource/rustdesk-1.4.5-x86_64.exe)
