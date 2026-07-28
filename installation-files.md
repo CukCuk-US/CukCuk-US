@@ -1,5 +1,14 @@
+### Version R137
+
+| Application | Version | Download |
+|---|---|---|
+| **CukCuk Mobile Sales** | R137.0.0.3 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/R137/Sales_US_137_0_0_3.apk) |
+| **CukCuk Mobile Kiosk** | R137.0.0.2 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/R137/Kiosk_US_137_0_0_2.apk) |
+| **CukCuk Mobile KDS** | R137.0.0.1 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/R137/KDS_US_137_0_0_1.apk) |
+| **CukCuk Mobile Manager** | R137.0.0.0 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/R137/Manager_US_R137_0_0_0.apk) |
 
 ### Version R136
+
 | Application | Version | Download |
 |---|---|---|
 | **CukCuk Mobile Sales** | R136.0.0.6 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/R136/Sales_US_136_0_0_6.apk) |
