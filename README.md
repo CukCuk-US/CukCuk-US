@@ -27,7 +27,7 @@ To download a file, simply click the corresponding link. If you encounter any is
 | **CukCuk Mobile Sales** | R139.0.0.0 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/R139/Sales_US_139_0_0_0.apk) |
 | **CukCuk Mobile Kiosk** | R139.0.0.0 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/R139/Kiosk_US_139_0_0_0.apk) |
 | **CukCuk Mobile KDS** | R139.0.0.0 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/R139/KDS_US_139_0_0_0.apk) |
-| **CukCuk Mobile Manager** | R137.0.0.0 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/R137/Manager_US_R137_0_0_0.apk) |
+| **CukCuk Mobile Manager** | R139.0.0.0 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/R139/Manager_US_139_0_0.apk) |
 
 
 ### Old Versions
