@@ -1,3 +1,12 @@
+### Version R139
+
+| Application | Version | Download |
+|---|---|---|
+| **CukCuk Mobile Sales** | R139.0.0.1 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/R139/Sales_US_139_0_0_1.apk) |
+| **CukCuk Mobile Kiosk** | R139.0.0.0 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/R139/Kiosk_US_139_0_0_0.apk) |
+| **CukCuk Mobile KDS** | R139.0.0.0 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/R139/KDS_US_139_0_0_0.apk) |
+| **CukCuk Mobile Manager** | R139.0.0.0 | [Download](https://github.com/CukCuk-US/CukCuk-US/releases/download/R139/Manager_US_139_0_0.apk) |
+
 ### Version R138
 
 | Application | Version | Download |
